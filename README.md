@@ -1,9 +1,10 @@
 # Hi there 👋 It's me Ishaa M
 
 ## 🌟 About Me:
-- 🎓 I am a student at **St. Joseph's College of Engineering**.
-- 💻 Passionate about coding and solving problems on LeetCode.
-- 🚀 Fun Fact: I love exploring the latest tech trends!
+- 🎓 A student at **St. Joseph's College of Engineering**.
+- 💻 Passionate about coding and solving challenges on LeetCode.
+- 🌱 Currently learning: Machine Learning and Backend Development.
+- 🚀 Fun Fact: I stay updated with the latest tech trends and love debugging like solving puzzles!
 
 ---
 
@@ -33,12 +34,43 @@
 
 ---
 
-## 📊 My GitHub Stats:
+## 📊 Advanced GitHub Stats:
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/your-github-username)
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)](https://github.com/your-github-username)
+
+</div>
+
 ---
 
-## 🎨 Fun Section:
-![Programming Meme](https://via.placeholder.com/400x300.png?text=Your+Funny+Programming+Meme)
+## 🎨 Fun Section: Coding Animations & Quotes
+<div align="center">
+  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="Coding Animation">
+
+**"Code is like humor. When you have to explain it, it’s bad."**
+
+---
+
+### 🧩 What Keeps Me Going:
+- ✨ **Debugging = Solving Mysteries!**
+- 🤓 **Refactoring = Art!**
+- 🎯 **Coding = Superpower!**
+
+---
+
+🎉 **Check out this fun fact:**  
+<code>I once debugged a 100-line code in under 10 minutes! 🚀</code>
+
+---
+
+🌟 **Let’s Solve Real-world Problems Together!**
+
+</div>
+
