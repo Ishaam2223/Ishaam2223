@@ -36,7 +36,7 @@
 ## 📊GitHub Stats:
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=shaam2223&theme=radical&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ishaam2223&theme=radical&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&sIshaam2223how_icons=true&theme=radical)](https://github.com/Ishaam2223)
 
