@@ -11,7 +11,7 @@
 ## 🔗 Connect with Me:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Ishaam/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaa-m-30984a265/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-github-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Ishaam2223)
 
 ---
 
@@ -33,16 +33,16 @@
 
 ---
 
-## 📊 Advanced GitHub Stats:
+## 📊GitHub Stats:
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shaam2223&theme=radical&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&sIshaam2223how_icons=true&theme=radical)](https://github.com/Ishaam2223)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/your-github-username)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaam2223&layout=compact&theme=radical)](https://github.com/Ishaam2223)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)](https://github.com/your-github-username)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Ishaam2223&theme=radical)](https://github.com/Ishaam2223)
 
 </div>
 
