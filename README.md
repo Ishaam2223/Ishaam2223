@@ -18,7 +18,8 @@
 
 ## I code in:
 
-![Python]https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fjava-blue
+![Python]![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fjava-blue)
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
